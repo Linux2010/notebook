@@ -54,3 +54,9 @@ export ALL_PROXY=socks5://127.0.0.1:7897
 ollama launch openclaw
 
 启动时选择kimi2.5-cloud 模型
+
+
+
+## 参考内容
+- 国外技术老哥视频
+https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx
